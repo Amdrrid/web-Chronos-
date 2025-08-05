@@ -79,9 +79,10 @@ a::after {
 a:hover {
     transform: translateY(-4px) scale(1.04);
     box-shadow: 0 8px 24px rgba(44, 62, 80, 0.18);
-    background: linear-gradient(90deg, #83a4d4 0%, #E6DADA 100%);
+    background: linear-gradient(90deg, #616161 0%, #9bc5c3 100%);
 }
 
 a:hover::after {
     opacity: 1;
 }
+
